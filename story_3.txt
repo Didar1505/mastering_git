@@ -1,0 +1,5 @@
+This is the third chapter of story. 
+It is getting interesting to use git and collaborate with team.
+Now i started to see the full potential of git.
+It is much more powerful than i have ever thought.
+
