@@ -1,5 +1,5 @@
 This is the first file created in the first commit of git repo
 
-Third commit 
-Hello this is the new message.
+When i first used git, i was amazed of its power and flexibility. 
+Even though git is not a recent technology, it will remain the technology of every generation.
 
